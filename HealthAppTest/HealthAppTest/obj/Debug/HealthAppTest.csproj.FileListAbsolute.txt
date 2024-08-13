@@ -1,0 +1,10 @@
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\bin\Debug\HealthAppTest.exe.config
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\bin\Debug\HealthAppTest.exe
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\bin\Debug\HealthAppTest.pdb
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.Form1.resources
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.Properties.Resources.resources
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.exe
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.pdb
