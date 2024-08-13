@@ -8,3 +8,5 @@ C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.
 C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.csproj.CoreCompileInputs.cache
 C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.exe
 C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.pdb
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.App.resources
+C:\Users\Tyler\source\repos\HealthAppTest\HealthAppTest\obj\Debug\HealthAppTest.Registration.resources
